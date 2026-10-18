@@ -6,7 +6,7 @@
 #Import the Movie class from objects. 
 from objects import Movie
 
-#List the movies. 
+#Lists the movies. 
 def list(movie_list):
     if len(movie_list) == 0:
         print("There are no movies in the list.\n")
